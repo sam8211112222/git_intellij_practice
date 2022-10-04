@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("Sam");
         System.out.println("Morris");
 
+        System.out.println("Test test test !!!");
     }
 }
